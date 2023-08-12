@@ -37,5 +37,5 @@ EchoServer
 - EpollReactorThreadPoolMS是Reactor线程池MS实现的代码目录
 
 # 3.微信公众号
-欢迎关注微信公众号「Linux后端研发工程实践」，第一时间获取最新文章！扫码即可订阅。也欢迎大家加我个人微信号：wanmuc2018，让我们共同进步。
+欢迎关注微信公众号「Linux后端开发工程实践」，第一时间获取最新文章！扫码即可订阅。
 ![img.png](https://github.com/wanmuc/EchoServer/blob/main/mp_account.png#pic_center=660*180)
